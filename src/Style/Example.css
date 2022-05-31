@@ -1,0 +1,9 @@
+.cardname {
+    border: 2px solid blueviolet;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
